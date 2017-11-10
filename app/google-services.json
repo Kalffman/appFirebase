@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "645795239148",
+    "firebase_url": "https://primeiro-projeto-f3026.firebaseio.com",
+    "project_id": "primeiro-projeto-f3026",
+    "storage_bucket": "primeiro-projeto-f3026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645795239148:android:b1532da2fc975e09",
+        "android_client_info": {
+          "package_name": "br.com.kalffman.projetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645795239148-i6gkh9vjp9nid4th3mv8rm9d6b4mabri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.kalffman.projetofirebase",
+            "certificate_hash": "5fef3aa9a6b0a9f35846fbeafe3a45399c8e1c54"
+          }
+        },
+        {
+          "client_id": "645795239148-a9pakvp89qsc78b7q500o6j6b843ge14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbVSi9a8PDL-7BE-nuIUoKcMfJLoqUWoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645795239148-a9pakvp89qsc78b7q500o6j6b843ge14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
